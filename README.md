@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hello everyone 🙋‍♂️🙋‍♂️
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" height='200'/>
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" height='200'/>
 </div>
 
+<a href="https://www.linkedin.com/in/bartosz-rozwadowski-157734209/">LinkedIn</a>
 
 <!--
 **Bartroz/Bartroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
