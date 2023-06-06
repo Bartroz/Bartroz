@@ -16,7 +16,7 @@ About me:
 * 🛠  young and ambitious mechanical and automation engineer who loves to learn and take on new challenges
 * 🕹 have a strong interest in electronics and programming
 * 📚 my free time, I dedicate myself to personal projects and also have a keen interest in economics
-* 👨‍👩‍👧‍👦 🏋️‍♀️ spending it with my family or engaging in sports activities
+* 👨‍👩‍👧‍👦 🏋️‍♀️ spending time with my family or engaging in sports activities
 ---
 Languages and tools: 
 <div>
