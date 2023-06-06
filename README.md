@@ -11,14 +11,23 @@
 </div>
 
 #### My name is Bartek and my goal is to become a Front-End Developer!  🖥 ⌨️
-
+--- 
 About me: 
 * 🛠  young and ambitious mechanical and automation engineer who loves to learn and take on new challenges
 * 🕹 have a strong interest in electronics and programming
 * 📚 my free time, I dedicate myself to personal projects and also have a keen interest in economics
 * 👨‍👩‍👧‍👦 🏋️‍♀️ spending it with my family or engaging in sports activities
-* **My ultimate goal is to become a frontend developer** 👨‍🎓👨‍🎓
-
+---
+Languages and tools: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="  https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+  <img src=" https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+</div>
 
 <!--
 **Bartroz/Bartroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
